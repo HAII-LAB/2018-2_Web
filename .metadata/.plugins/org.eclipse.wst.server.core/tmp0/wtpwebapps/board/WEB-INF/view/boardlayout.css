@@ -1,0 +1,72 @@
+@charset "utf-8";
+#wrap {
+	height: auto;
+	width: 1024px;
+	margin-left: 100px;
+	background-color: #FFF;
+	background-image: none;
+}
+#page_header {
+	height: 140px;
+	width: 1024px;
+	border: thick solid #000;
+}
+.header_logo {
+	height: 100px;
+	width: 600px;
+	margin-top: 40px;
+	font-size: 36pt;
+	font-family: "함초롬돋움";
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	background-color: #FFF;
+	float: right;
+	margin-right: 190px;
+}
+#page_main {
+	height: 800px;
+	width: 1024px;
+}
+#page_main table {
+	background-color: #FCC;
+	border: thin solid #000;
+}
+#page_main table {
+	border: thin solid #000;
+}
+.write {
+	height: 40px;
+	width: auto;
+	font-family: "함초롬돋움";
+	font-size: 14pt;
+}
+#login {
+	height: 500px;
+	width: 600px;
+	margin-top: 70px;
+	margin-left: 200px;
+	border: thin none #FFF;
+}
+#apDiv1 {
+	position: absolute;
+	left: 407px;
+	top: 240px;
+	width: 415px;
+	height: 288px;
+	z-index: 1;
+	border: medium solid #000;
+	background-color: #FFF;
+}
+
+.loginlogo {
+	height: 50px;
+	width: 100px;
+	float: left;
+}
+#logo {
+	height: 71px;
+	width: 230px;
+	margin-top: 40px;
+	float: left;
+}

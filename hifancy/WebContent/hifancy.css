@@ -1,0 +1,848 @@
+@charset "utf-8";
+
+#body {
+	float: none;
+	height: 3750px;
+	width: 1920px;
+	margin: auto;
+	background-color: #EDEFF0;
+}
+#body2 {
+	float: none;
+	height: 1050px;
+	width: 1920px;
+	margin: auto;
+	background-color: #EDEFF0;
+}
+#body3{
+	float: none;
+	height: auto;
+	width: 1920px;
+	margin: auto;
+	background-color: #EDEFF0;
+	overflow: auto;
+	padding-bottom: 30px;
+}
+#pageheader {
+	float: none;
+	width: 1472px;
+	height: 226px;
+	margin: auto;
+	background-color: #fdfdfe;
+}
+#toplogo {
+	float: left;
+	height: 98px;
+	width: 248px;
+	margin-top: 30px;
+}
+.searchinput {
+	float: left;
+	height: 44px;
+	width: 750px;
+	border: 0px;
+}
+#searchicon {
+	float: right;
+	height: 30px;
+	width: 30px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+#topmenu {
+	float: left;
+	height: 62px;
+	width: 983px;
+	margin-left: 248px;
+	margin-top: 20px;
+}
+#membercart{
+	float: left;
+	height: 76px;
+	width: 172px;
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+#member {
+	float: left;
+	height: 76px;
+	width: 86px;
+	margin-top: 10px;
+	font-family: "나눔고딕";
+	font-size: 9pt;
+	color: #80A6AD;
+}
+#cart {
+	float: right;
+	height: 76px;
+	width: 86px;
+	margin-top: 10px;
+	font-family: "나눔고딕";
+	font-size: 9pt;
+	color: #80A6AD;
+}
+#main {
+	float: none;
+	height: auto;
+	width: 1472px;
+	text-align: left;
+	margin: auto;
+}
+#navcover{
+	float: left;
+	height: 70px;
+	width: 1472px;
+	margin-top: 50px;
+		
+}
+#pagenav {
+	float: right;
+	height: 40px;
+	width: 200px;
+	margin-right: 50px;
+}
+#page_pre {
+	float: left;
+	height: 40px;
+	width: 100px;
+	font-size: 24px;
+	color: #607D82;
+	font-family: "나눔고딕";
+}
+#page_aft {
+	float: left;
+	height: 40px;
+	width: 100px;
+	text-align: right;
+	font-size: 24px;
+	color: #607D82;
+	font-family: "나눔고딕";
+}
+
+
+#mainimage {
+	float: left;
+	height: 584px;
+	width: 1472px;
+}
+#subimage1 {
+	float: left;
+	height: 1024px;
+	width: 1472px;
+	background-color: #edeff0;
+}
+#subimg1_1 {
+	float: left;
+	height: 991px;
+	width: 472px;
+	margin-top: 30px;
+}
+#subimg1_2 {
+	float: left;
+	height: 489px;
+	width: 472px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#subimg1_3 {
+	float: left;
+	height: 475px;
+	width: 472px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#subimg1_4 {
+	float: left;
+	height: 256px;
+	width: 470px;
+	margin-top: 30px;
+	margin-left: 28px;
+}
+#subimg1_5 {
+	float: right;
+	height: 709px;
+	width: 470px;
+	margin-top: 30px;
+	margin-left: 28px;
+}
+#subimage2 {
+	float: left;
+	height: 1023px;
+	width: 1472px;
+	background-color: #EDEFF0;
+	text-align: left;
+}
+
+#subimg2_1 {
+	float: left;
+	height: 735px;
+	width: 472px;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+#subimg2_1_1{
+	float: left;
+	height: 258px;
+	width: 472px;
+}
+#subimg2_1_2{
+	float: left;
+	height: 705px;
+	width: 472px;
+	margin-top: 30px;
+}
+#subimg2_2 {
+	float: left;
+	height: 987px;
+	width: 472px;
+	margin-top: 30px;
+	margin-right: 27px;
+}
+#subimg2_3 {
+	float: left;
+	height: 479px;
+	width: 471px;
+	margin-top: 30px;
+}
+#subimg2_4 {
+	float: right;
+	height: 481px;
+	width: 471px;
+	margin-top: 30px;
+}
+#subimg2_5 {
+	float: right;
+	height: 705px;
+	width: 472px;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+#subimage3 {
+	float: left;
+	height: 1064px;
+	width: 1472px;
+	background-color: #EDEFF0;
+}
+#subimg3_1 {
+	float: left;
+	height: 991px;
+	width: 472px;
+	margin-top: 30px;
+}
+#subimg3_2 {
+	float: left;
+	height: 489px;
+	width: 472px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#subimg3_3 {
+	float: left;
+	height: 475px;
+	width: 472px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#subimg3_4 {
+	float: left;
+	height: 256px;
+	width: 470px;
+	margin-top: 30px;
+	margin-left: 28px;
+}
+#subimg3_5 {
+	float: right;
+	height: 709px;
+	width: 470px;
+	margin-top: 30px;
+	margin-left: 28px;
+}
+#footer {
+	float: none;
+	height: 330px;
+	width: 1920px;
+	margin: auto;
+}
+#login_join {
+	float: right;
+	margin-right: 45px;
+	height: 25px;
+	width: 145px;
+}
+#login {
+	float: left;
+	height: 25px;
+	width: 70px;
+	font-family: "나눔고딕";
+	font-size: 18px;
+	color: #607D82;
+	text-align: center;
+}
+#join {
+	float: left;
+	height: 25px;
+	width: 75px;
+	font-family: "나눔고딕";
+	font-size: 18px;
+	color: #607D82;
+	text-align: center;
+}
+#navigator {
+	float: left;
+	height: 40px;
+	width: 600px;
+	margin-left: 30px;
+}
+#continushopping{
+	float: left;
+	height: 40px;
+	width: 200px;
+	font-size: 24px;
+	font-family: "나눔고딕";
+	text-align: right;
+	color: #607D82;
+	padding-top: 5px;
+	margin-right: 5px;
+}
+#nav1 {
+	float: left;
+	height: 40px;
+	width: 100px;
+	font-size: 24px;
+	font-family: "나눔고딕";
+	text-align: right;
+	color: #607D82;
+	padding-top: 5px;
+	margin-right: 5px;
+}
+#productInfo {
+	float: left;
+	height: 284px;
+	width: 618px;
+	font-size: 16px;
+}
+#itemline {
+	float: left;
+	height: 14px;
+	width: 537px;
+}
+#cartitemline2 {
+	float: left;
+	height: 18px;
+	width: 500px;
+}
+#cartitemline1 {
+	float: left;
+	height: 12px;
+	width: 1300px;
+}
+#purchaseInfo {
+	float: left;
+	height: 180px;
+	width: 618px;
+	margin-top: 10px;
+	font-size: 16px;
+}
+#purchase_cartbutton {
+	float: left;
+	height: 59px;
+	width: 618px;
+	margin-top: 20px;
+}
+#cartgo {
+	float: left;
+	height: 54px;
+	width: 250px;
+	margin-left: 30px;
+	font-family: "나눔고딕";
+	font-size: 30px;
+	color: #FFF;
+	background-color: #607D82;
+	text-align: center;
+	margin-right: 40px;
+	padding-top: 5px;
+}
+#purchasego {
+	float: left;
+	height: 50px;
+	width: 250px;
+	font-size: 30px;
+	color: #FFF;
+	background-color: #607D82;
+	text-align: center;
+	margin-right: 40px;
+	padding-top: 5px;
+}
+
+
+
+
+#nav2 {
+	float: left;
+	height: 40px;
+	width: 125px;
+	font-size: 24px;
+	color: #607D82;
+	font-family: "나눔고딕";
+	padding-top: 5px;
+}
+#nav3 {
+	float: left;
+	height: 40px;
+	width: 300px;
+	font-size: 24px;
+	color: #607D82;
+	font-family: "나눔고딕";
+	padding-left: 5px;
+	padding-top: 5px;
+}
+#productDetailImg {
+	float: left;
+	height: 800px;
+	width: 754px;
+	margin-top: 50px;
+	margin-left: 70px;
+}
+#details {
+	float: left;
+	height: 800px;
+	width: 618px;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+#itemname {
+	float: left;
+	height: 90px;
+	width: 618px;
+	font-family: "나눔고딕";
+	color: #607D82;
+	font-size: 36px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+#itemprice {
+	font-family: "나눔고딕";
+	font-size: 18px;
+	color: #607D82;
+	float: left;
+	height: 30px;
+	width: 618px;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding-top: 6px;
+}
+
+#productInfo p {
+	font-family: "나눔고딕";
+	color: #607D82;
+	font-size: 20px;
+}
+#snslink {
+	float: left;
+	height: 43px;
+	width: 256px;
+	margin-top: 10px;
+}
+
+#purchaseInfo p {
+	font-family: "나눔고딕";
+	color: #607D82;
+	font-size: 24px;
+}
+#purchaseInfo h1 {
+	font-family: "나눔고딕";
+	color: #607D82;
+}
+#productInfo h1 {
+	font-family: "나눔고딕";
+	color: #607D82;
+}
+#product_catalog_image {
+	float: left;
+	height: 338px;
+	width: 338px;
+	margin-right: 40px;
+}
+
+#registerform {
+	border: medium solid #607D82;
+	font-family: "나눔고딕";
+	color: #405357;
+	font-size: 24px;
+}
+#guide {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	margin-left: 250px;
+	font-family: "나눔고딕";
+	color: #607D82;
+	font-size: 24px;
+}
+#registerform tr th {
+	font-family: "나눔고딕";
+	color: #F4F4F4;
+	text-align: center;
+	font-size: 24px;
+}
+#pagetitle{
+	margin-left: 60px;	
+}
+#registersuccess{
+	padding: 30px;
+	margin-left: 450px;
+	float: none;
+	height: 500px;
+	width: 500px;
+	font-family: "나눔고딕";
+	font-size: 24px;
+	color: #607D82;
+	background-color: #FDFDFE;
+	border: medium solid #607D82;
+	text-align: center;
+}
+#registersuccessTitle{
+	height: 100px;
+	width: 500px;
+	font-family: "나눔고딕";
+	font-size: 36px;
+	color: #607D82;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#registersuccessContent{
+	height: 350px;
+	width: 500px;
+	font-family: "나눔고딕";
+	font-size: 24px;
+	color: #607D82;
+	text-align: left;
+	line-height: 50px;
+}
+#carttablestyle {
+	float: left;
+	width: 1300px;
+	margin-left: 120px;
+	font-family: "나눔고딕";
+	font-size: 24px;
+	color: #607D82;
+}
+#carttable th{
+	font-family: "나눔고딕";
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+}
+#carttable td{
+	font-family: "나눔고딕";
+	font-size: 18px;
+	color: #607D82;
+	text-align: left;
+}
+#cartitem {
+	float: left;
+	height: 200px;
+	width: 200px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#cartitemInfo {
+	float: left;
+	height: 100px;
+	width: 300px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+#deliveryInfo {
+	float: left;
+	height: 400px;
+	width: 600px;
+	margin-left: 120px;
+	font-family: "나눔고딕";
+	color: #607D82;
+	font-size: 24px;
+}
+#total {
+	float: right;
+	height: 420px;
+	width: 500px;
+	margin-right: 50px;
+	font-family: "나눔고딕";
+	color: #627F84;
+	font-size: 24px;
+	padding-left: 3px;
+	text-align: right;
+}
+#signin {
+   padding-top: 5px;
+   padding-left: 435px;
+   float: left;
+   height: 60px;
+   width: 200px;
+   font-family: "나눔고딕";
+   font-size: 50px;
+   font-weight: bold;
+   color: #607D82;
+}
+#signin_1 {
+   width: 600px;
+   margin-right: auto;
+   margin-left: auto;
+   
+}
+div.container {
+   margin: 0 auto 0;
+    width: 600px;
+}
+.form-area table {
+   background-color: #FFF;
+    border: 1px solid #dadada;
+   margin-bottom: 15px;
+   border-collapse: collapse;
+   width: 100%;
+}
+.form-area table:last-child {
+   margin-bottom: 0;
+}
+.form-area table tr td {
+   border-bottom: 1px solid #f0f0f0;
+    padding: 5px 10px;
+}
+.form-area table tr:last-child td {
+   border-bottom: 1px solid #dadada;
+}
+.input-text {
+   border: none;
+   height: 30px;
+   padding: 2px 0px;
+   width: 100%;
+   font-size: 14px;
+}
+.input-text.birth {
+   width: 180px;
+}
+.form-area table tr td select {
+   width: 180px;
+   border: none;
+   height: 30px;
+   padding: 2px 0px;
+   font-size: 14px;
+}
+.form-area table tr td .alert {
+   color: #ef0003;
+   font-size: 12px;
+   margin: 5px 0;
+   display: none;
+}
+   
+.button-area {
+   text-align: center;
+   padding: 10px 0;
+}
+.btn-type-01 {
+   display: inline-block;
+   width: 100%;
+   font-size: 18px;
+   letter-spacing: -1px;
+   font-weight: bold;
+   height: 60px;
+   line-height: 55px;
+   text-decoration: none;
+   border-radius: 0; 
+   background-color: #607d82;
+   color: #FFF;
+}
+#signin_title {
+   text-align: center;
+   font-size: 40px;
+   font-weight: bold;
+   letter-spacing: -4px;
+   color: #607d82;
+}
+   
+#signin_input-text {
+   border: none;
+   text-align: center;
+   font-size: 25px;
+   letter-spacing: -3px;
+   color: #607d82;
+}
+   
+#signinimage {
+   float: center;
+   margin-top: 20px;
+}
+.product_catalog_name {
+   float: left;
+   height: 423px;
+   width: 338px;
+   margin-right: 30px;
+   margin-bottom: 30px;
+}
+.product_catalog_image {
+   float: left;
+   height: 338px;
+   width: 338px;
+   margin-right: 30px;
+}
+.product_catalog_info {
+   font-size: 12pt;
+   float: left;
+   height: 85px;
+   width: 338px;
+   margin-right: 30px;
+   text-align: center;
+}
+.doll_image2{
+   width: 1472;
+   height: 900;
+}
+
+#searchinputcover{
+	float: left;
+	height: 52px;
+	width: 800px;
+	margin-left: 70px;
+	margin-top: 50px;
+	border: 5px solid #80a6ad;
+}
+#welcome {
+   height: 159px;
+   width: 500px;
+   margin-left: 390px;
+}
+#signinsuccess{
+   margin-top: 20px;
+   margin-left: 450px;
+   float: none;
+   height: 600px;
+   width: 500px;
+   color: #607D82;
+   background-color: #FDFDFE;
+   border: medium solid #607D82;
+
+}#shopping_go {
+   height: 50px;
+   width: 300px;
+   margin-top: 35px;
+   margin-left: 565px;
+}
+#mypagesuccess{
+   padding: 30px;
+   margin-top: 50px;
+   float: none;
+   height: 400px;
+   width: 1472px;
+   font-family: "나눔고딕";
+   font-size: 24px;
+   color: #607D82;
+   background-color: #FDFDFE;
+   border: medium solid #607D82;
+   text-align: center;
+}
+#mypagesuccessTitle{
+   height: 100px;
+   width: 1300px;
+   font-family: "나눔고딕";
+   font-size: 40px;
+   color: #607D82;
+   font-weight: bold;
+   text-align: left;
+   padding-left: 20px;
+}
+.mypageesuccessContent{
+   height: 280px;
+   width: 1300px;
+   font-family: "나눔고딕";
+   font-size: 24px;
+   color: #607D82;
+   text-align: center;
+   float: left;
+}
+.mypage_box {
+   height: 260px;
+   width: 410px;
+   margin-right: 35px;
+   margin-left: 35px;
+   background-color: #edeff0;
+   float: right;
+}
+#mypage_purchase {
+   padding: 20px;
+   height: 300px;
+   width: 1472px;
+}
+#mypage_purchase_Title{
+   height: 70px;
+   width: 1400px;
+   font-family: "나눔고딕";
+   font-size: 40px;
+   color: #607D82;
+   font-weight: bold;
+   text-align: left;
+   padding-left: 20px;
+}
+#mypage_table {
+   height: 200px;
+   width: 1470px;
+   margin-top: 10px;
+   padding-left: 20px;
+   font-size: 24px;
+   color: #607D82;
+}
+#writeformTitle{
+   height: 70px;
+   width: 1400px;
+   font-family: "나눔고딕";
+   font-size: 40px;
+   color: #607D82;
+   font-weight: bold;
+   text-align: left;
+   padding-left: 20px;
+   margin-left: 240px;
+}
+#deletesuccess{
+   padding: 30px;
+   margin-left: 450px;
+   float: none;
+   height: 300px;
+   width: 500px;
+   font-family: "나눔고딕";
+   font-size: 24px;
+   color: #607D82;
+   background-color: #FDFDFE;
+   border: medium solid #607D82;
+   text-align: center;
+}
+#deletesuccessContent{
+   height: 180px;
+   width: 500px;
+   font-family: "나눔고딕";
+   font-size: 35px;
+   color: #607D82;
+   text-align: center;
+   line-height: 50px;
+}
+#registersuccess{
+   padding: 30px;
+   margin-left: 450px;
+   float: none;
+   height: 500px;
+   width: 500px;
+   font-family: "나눔고딕";
+   font-size: 24px;
+   color: #607D82;
+   background-color: #FDFDFE;
+   border: medium solid #607D82;
+   text-align: center;
+}
+#catalog_go {
+   height: 50px;
+   width: 300px;
+   margin-top: 30px;
+   margin-left: 600px;
+}

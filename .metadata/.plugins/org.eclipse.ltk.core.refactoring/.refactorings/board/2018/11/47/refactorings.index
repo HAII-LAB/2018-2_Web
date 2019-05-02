@@ -1,0 +1,29 @@
+1542524900901	Move 'delete.jsp' to 'view'
+1542525032680	Move 'delete.jsp' to 'WebContent'
+1542528254752	Copy compilation unit
+1542528659269	Delete element
+1542528666433	Delete element
+1542712056088	Delete element
+1542712069842	Delete element
+1542712084979	Delete element
+1542712099715	Delete element
+1542712139436	Delete element
+1542712142711	Delete element
+1542802021569	Rename resource 'board.html'
+1542802075326	Delete element
+1542802086344	Rename resource 'board.jsp'
+1542802650252	Move 'logo.PNG' to 'images'
+1542804834426	Rename resource 'login.html'
+1542805111688	Delete element
+1542805121411	Rename resource 'login.jsp'
+1542904904018	Delete element
+1542905115145	Rename resource 'read1.html'
+1542905154394	Delete element
+1542905169027	Rename resource 'read1.jsp'
+1542906801726	Delete element
+1542907462068	Rename resource 'newArticle1.html'
+1542907508602	Delete element
+1542907518254	Rename resource 'newArticle1.jsp'
+1542909413708	Delete element
+1542909430650	Rename resource 'modifyArticle1.html'
+1542909765757	Rename resource 'modifyArticle.jsp'

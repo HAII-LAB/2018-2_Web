@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <title>문서 객체 선택</title>
+    <script>
+        window.onload = function () {
+            // 문서 객체를 선택합니다.
+            var header = document.getElementById('header');
+            // 문서 객체의 스타일을 변경합니다.
+            header.style.color = 'red';
+            header.style.border = '1px solid black';
+            var h2 = document.querySelector('h2');
+            var h22 = document.getElementById('header2');
+            h2.style.backgroundColor='blue';
+            h22.style.color = 'yellow';
+ 			var h222=document.getElementById('para');
+ 			para.style.border='2px dotted green';
+ 			
+        };
+    </script>
+</head>
+<body>
+    <h1 id="header">Title</h1>
+    <h2 id="header2">헤더2</h2>
+    <p id="para">웹프로그래밍 시간입니당</p> <!-- 2px dotted green -->
+</body>
+</html>
