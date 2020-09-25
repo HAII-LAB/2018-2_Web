@@ -1,5 +1,2 @@
-# 2018-2_Web
-projects for Web-programming class (Model 1)
-
-These projects were for my practical training about Model 1 in 2018-2
-Project 'hifancy' was my final project and I tried to create online shopping mall in it.
+# Hifancy_Website
+This web project is Stationery Website "Hifancy" based on MVC(Model1).
