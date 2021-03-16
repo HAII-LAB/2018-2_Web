@@ -1,2 +1,2 @@
-# Hifancy_Website
-This web project is Stationery Website "Hifancy" based on MVC(Model1).
+# mvc-model1-website
+Website based on MVC-Model1
